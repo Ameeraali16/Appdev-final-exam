@@ -89,6 +89,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
+  equatable:
+    dependency: "direct main"
+    description:
+      name: equatable
+      sha256: "567c64b3cb4cf82397aac55f4f0cbd3ca20d77c6c03bedbc4ceaddc08904aef7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.7"
   fake_async:
     dependency: transitive
     description:
@@ -121,6 +129,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.19.0"
+  five_pointed_star:
+    dependency: "direct main"
+    description:
+      name: five_pointed_star
+      sha256: "706e8bccd04ed7fdcb69c124656f94492e3aacc2a0cde8644b3e3ee85e4f9ad1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.3"
   flutter:
     dependency: "direct main"
     description: flutter
